@@ -72,7 +72,7 @@ def Splitway():
         answer = ABC(2)
         if answer == 0:
             coolPrint(
-                "He had won!\n\nHe had defeated the machine!\nUnshackled himself from someone else's command! \nAnd he went home again doing what he wanted!",
+                "He had won!\n\nHe had defeated the machine!\nUnshackled himself from someone else's command! \nAnd he went to the nederland as a (Newkomer)\nBecause of his trama\nand he loved it in the nederlands (:",
                 "")
             input("ending 5")
         else:
@@ -121,7 +121,7 @@ if answer == 0:
                     coolPrint("The door shut behind Stanley.\nStanley did not have a torch so he hit his head.\nThis is a very sad story about the death of a man named Stanley.\n\nGood morning Employee 427. ", "")
                     input("ending 4 ")
                 elif answer == 2:
-                    coolPrint("Stanley walk for hours with his torch in hand.\nStanley saw a light at the end.\n Good morning Employee 427.", "")
+                    coolPrint("Stanley walk for hours with his torch in hand.\nStanley saw a light at the end.\n Good morning Employee 427. And he went to the nederland as a (Newkomer)\nBecause of his trama\nand he loved it in the nederlands (:", "")
                     input("ending 3 ")
                 else:
                     coolPrint("*SPLAT*\n\nBut in his eagerness to prove that he is in control \nof the Story and no one gets to tell him what to do, \nStanley lept from the platform, and plunged to his death.\nGood job, Stanley. Everyone thinks you are very powerful.", "")
